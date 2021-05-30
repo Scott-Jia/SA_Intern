@@ -1,0 +1,34 @@
+{
+    "users":
+    [
+        {
+            "firstName": "Bo",
+            "lastName": "Jia",
+            "Age": 26,
+            "hobbies": ["reading", "writing"],
+            "friends": [
+                {
+                    "firstName": "Zhe",
+                    "lastName": "Wang"
+                }
+            ]
+        },
+        {
+            "firstName": "Xiang",
+            "lastName": "Li",
+            "Age": 26,
+            "hobbies": ["running", "sleeping", "eating"]
+        }
+    ],
+    "subjects":
+    [
+        {
+            "name": "CS",
+            "id": 1
+        },
+        {
+            "name": "ECE",
+            "id": 2
+        }
+    ]
+}
